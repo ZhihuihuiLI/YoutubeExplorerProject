@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+transformers
+matplotlib
+wordcloud
+nltk
+youtube-transcript-api
+google-api-python-client
